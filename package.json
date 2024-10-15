@@ -1,5 +1,4 @@
 {
-  "homepage": "https://sachchitbalamurugan.github.io/YOTItest/",
   "name": "untitled",
   "version": "1.0.0",
   "description": "Scene exported with Spline",
@@ -14,8 +13,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "start": "vite",
-    "deploy": "gh-pages -d dist"
+    "start": "vite"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
